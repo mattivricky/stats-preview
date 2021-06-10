@@ -28,7 +28,7 @@ body{
     grid-template-columns: 1fr;
     background-color: var(--card_background);
     width: 85vw;
-    margin: 3rem auto 1rem;
+    margin: 3rem auto 2rem;
     border-radius: 5px;
 }
 
@@ -190,7 +190,7 @@ p{
     
     .attribution { 
         font-size: 11px; 
-        text-align: center; 
+        text-align: center;
     }
     
     .attribution a { 
